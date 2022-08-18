@@ -1,0 +1,24 @@
+{
+  "name": "yombal-jalla-b",
+  "version": "1.0.0",
+  "description": "A web application for apps",
+  "main": "src.index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev" : "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gee1001/Yombal-jalla-b.git"
+  },
+  "author": "Gibril",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gee1001/Yombal-jalla-b/issues"
+  },
+  "homepage": "https://github.com/Gee1001/Yombal-jalla-b#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
